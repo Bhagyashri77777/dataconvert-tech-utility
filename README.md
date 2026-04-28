@@ -1,15 +1,14 @@
-# 💾 DataConvert: Tech Storage Utility 💾
+# 💾 DataConvert: Tech Storage Utility
 
-Welcome to our Data Science utility tool! 🚀
-This is a smart, fast Python utility built specifically for AI-DS engineers to easily convert massive data storage sizes (MB to GB to TB) with high precision.
+A smart, fast, and high-precision Python utility built to seamlessly convert data storage sizes.
 
-**Built for the Culling Games 2026!** 🏆
+### 🚀 Key Features
+* **Seamless Conversion:** Easily and accurately calculate data sizes across Megabytes (MB), Gigabytes (GB), and Terabytes (TB).
+* **High Precision:** Ensures exact calculations critical for managing and storing large datasets.
+* **Lightweight & Fast:** A clean, optimized Python script for instant utility.
 
-### ⚔️ Team: The Neural Knights ⚔️
-* 👑 **Bhagyashri Gawali** (Captain & Lead Developer) 👩‍💻
-* 🛡️ **Anushka** (Logic Architect)
-* 🛡️ **Payal** (QA & Tester)
-* 🛡️ **Prashant** (Data Researcher)
-* 🛡️ **Sneha** (Data Researcher)
+### 🛠️ Tech Stack
+* Python
 
-Utility Status: 100% Operational! ✨
+---
+**Developed by:** Bhagyashri Yogesh Gawali
